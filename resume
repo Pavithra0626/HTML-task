@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <footer>
+        <h1>Contact Details</h1>
+        <p>Location:Coimbatore</p>
+        <p>Email:Test@gamil.com
+
+        </p>
+    </footer>
+    <!--Heading of the project title-->
+    <header>
+        <h1>Resume</h1>
+    </header>
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Qulification</li>
+            <li>Certification</li>
+            <li>Skills</li>
+            <li>Contact Details</li>
+        </ul>
+    </nav>
+    <!--Home content-->
+    <section>
+        <center>
+            <figure>
+                <img src="https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg"alt="no image"height="100px"width="100px"/>
+            </figure>
+        <figcaption>Picture 1</figcaption>
+        <h1>Your Name</h1>
+        <h2>Full Stack Developer</h2>
+        </centre>
+        <details>
+            <summary>Skill</summary>
+            <li>CSS</li>
+        </details>
+        <dl>
+            <dt>Online Food Order</dt>
+            <dd>-Frontend-HTML,CSS,Bootsrap,javaScript,React</dd>
+
+            </Section>
+
+
+</body>
+</html>
